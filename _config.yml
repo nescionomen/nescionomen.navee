@@ -32,7 +32,7 @@ baseurl: "/material/" # the subpath of your site, e.g. /blog/
 url: "http://naveenshaji.github.io/material" # the base hostname & protocol for your site
 twitter_username: navvenshady
 github_username:  naveenshaji
-css: "cyan"
+css: "green"
 scroll-cursor: "#00BCD4"
 scroll-rail: "#0097A7"
 
